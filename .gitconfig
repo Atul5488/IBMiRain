@@ -1,0 +1,5 @@
+[user]
+	email = atul.[200~Atul.kumar@programmers.ai~\ngit config --global user.email Atul.kumar@programmers.ai\ngit config --global user.email atul.[200~Atul.kumar@programmers.ai~
+	name = ATUL
+[credential]
+	helper = store
